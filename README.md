@@ -2,7 +2,7 @@
 <!-- Mohammad Kaif | GitHub Profile README -->
 
 <div align="center">
-<img src="[https://img.shields.io/badge/UDP-Wi--Fi-informational](https://avatars.githubusercontent.com/u/134924415?v=4)" alt="profile pictures">
+<img src="https://avatars.githubusercontent.com/u/134924415?v=4" alt="profile pictures">
 
 # Mohammad Kaif
 
