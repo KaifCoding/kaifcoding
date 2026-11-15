@@ -2,14 +2,6 @@
 <!-- Mohammad Kaif | GitHub Profile README -->
 
 <div align="center">
-<p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/134924415?v=4"
-    alt="Mohammad Kaif"
-    width="120"
-  />
-</p>
-
 # Mohammad Kaif
 
 ### Founder · Full-Stack Developer · Open-Source Builder
