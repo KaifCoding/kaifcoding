@@ -2,7 +2,13 @@
 <!-- Mohammad Kaif | GitHub Profile README -->
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/134924415?v=4" alt="profile pictures">
+<p align="center">
+  <img
+    src="https://avatars.githubusercontent.com/u/134924415?v=4"
+    alt="Mohammad Kaif"
+    width="120"
+  />
+</p>
 
 # Mohammad Kaif
 
@@ -61,15 +67,14 @@ A selection of projects I'm building and sharing publicly.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🪧 <a href="https://github.com/KaifCoding/signboard-creator-cities1">Signboard Creator · Cities: Skylines 1</a></h3>
-      <p>A browser-based editor for Indian-style signboards, welcome boards, kilometre markers, directional signs, and flags. Design with text and images, preview in 3D, and export a Cities: Skylines asset package.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
-        <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" alt="Three.js">
-        <img src="https://img.shields.io/badge/Konva-0D83CD" alt="Konva">
-      </p>
-      <p><a href="https://github.com/KaifCoding/signboard-creator-cities1">Explore the project →</a></p>
-      <p><sub>Note: the repository currently documents in-game CRP loading as not yet verified. See its known limitations for details.</sub></p>
+<h3>🪧 <a href="https://github.com/KaifCoding/signboard-creator-cities1">Signboard Creator · Cities: Skylines 1</a></h3>
+<p>A powerful browser-based editor for creating Indian-style signboards, welcome boards, kilometre markers, directional signs, municipal boards, and flags. Design with text and images, customize layouts, preview your creations in 3D, and export game-ready CRP assets with one click.</p>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" alt="Three.js">
+  <img src="https://img.shields.io/badge/Konva-0D83CD" alt="Konva">
+</p>
+<p><a href="https://github.com/KaifCoding/signboard-creator-cities1">Explore the project →</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📶 <a href="https://github.com/KaifCoding/wifi-nextjs">WiFi Next.js</a></h3>
